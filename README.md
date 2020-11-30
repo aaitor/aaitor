@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola! 👋
 
-<!--
-**aaitor/aaitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a CTO working on the Blockchain & Data space and learning new things everyday.
 
-Here are some ideas to get you started:
+- :japanese_castle: Working in the Keyko dōjō. [Keyko GmbH](https://github.com/keyko-io) - [website](https://keyko.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm boostraping [Nevermined](https://github.com/nevermined-io) - [website](https://nevermined.io)
+
+- :trophy: I’ve >20 years of experience working on IT. So a lot of years of coding, project management, architecture and devops.
+
+- :es: I'm from Spain, but I lived & worked in :uk: London and 🏴󠁤󠁥󠁢󠁥󠁿 Berlin
+
+- 📫 How to reach me: aaitor@gmail.com
