@@ -1,13 +1,22 @@
-### Hola! 👋
+![](assets/images/header.jpg)
 
-- 🔭 I'm a CTO working on the Blockchain & Data space and learning new things everyday.
+<p align="center">
+  <a href="https://github.com/wei">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aaitor&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
+  </a>
+</p>
 
-- :japanese_castle: Working in the Keyko dōjō. [Keyko GmbH](https://github.com/keyko-io) - [website](https://keyko.io)
-
-- 🌱 I'm boostraping [Nevermined](https://github.com/nevermined-io) - [website](https://nevermined.io)
-
-- :trophy: I’ve >20 years of experience working on IT. So a lot of years of coding, project management, architecture and devops.
-
-- :es: I'm from Spain, but I lived & worked in :uk: London and 🏴󠁤󠁥󠁢󠁥󠁿 Berlin
-
-- 📫 How to reach me: aaitor@gmail.com
+<p align="center">
+  <a href="https://github.com/aitor">
+    <img src="https://img.shields.io/badge/github-aaitor-211F1F?logo=github&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://whe.me">
+    <img src=ihttps://img.shields.io/badge/website-nevermined.io-1BC?logo=react&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/aitorargomaniz">
+    <img src="https://img.shields.io/badge/linkedin-Aitor_Argomaniz-0072B1?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:aaitor@gmail.com">
+    <img src="https://img.shields.io/badge/email-aaitor@gmail.com-211F1F?logo=&style=flat-square" />
+  </a>
+</p>
