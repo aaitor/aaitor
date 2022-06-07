@@ -1,7 +1,7 @@
 ![](assets/images/header.jpg)
 
 <p align="center">
-  <a href="https://github.com/wei">
+  <a href="https://github.com/aaitor">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aaitor&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
   </a>
 </p>
