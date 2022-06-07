@@ -1,4 +1,4 @@
-![](assets/images/header.jpg)
+![](assets/images/header.png)
 
 <p align="center">
   <a href="https://github.com/aaitor">
