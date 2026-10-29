@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aaitor/assets/7a33348ec358a2b105e1e5963da67906898cc618/banners/aaitor.svg" alt="Aitor Argomaniz — CTO and founder, building software with AI agents" width="100%">
+</p>
+
 ### Aitor Argomaniz
 
 CTO and 3× founder, 26 years building software. I design systems, take products from zero to production, and lead the teams that build them. These days that team is a few people plus a fleet of coding agents.
